@@ -1,6 +1,5 @@
 # 💫 About Me:
-🚧 I'm currently working on:<br>🌍 LegmaMiteo: an advanced local weather station created to foresee Extreme weather caused from developing climate change;<br><br>🚀 I worked on:<br>🚙 LagmaBills: Emergency car with integrated local AI, 6 hours of battery, odometry, GPS, and much more epic thinghs;<br>🪴 SegmaSirra: Fully automated greenhouse for every Little plant, self sufficient using solar Power, 24/7,  monitorable with the custom made Android application;<br><br>⭐ Ask me about:<br>🪐 Everything 
-
+🚧 I'm currently working on:<br>🌍 LagmaMeteo: an advanced local weather station designed to help forecast extreme weather caused by developing climate change;<br><br>🚀 I worked on:<br>🚙 [LagmaBills](https://github.com/Dragonyx118/LagmaBills): a Mecanum-wheeled rescue and surveillance robot for civil protection, with autonomous navigation, real-time environment mapping, an integrated reconnaissance drone, a 6-DOF robotic arm, local voice AI with a custom wake word, computer vision, GPS tracking, custom KiCad PCBs, and a companion mobile/desktop app — presented at Arduino Day 2025;<br>🪴 SegmaSerra: a fully automated greenhouse for every little plant, self-sufficient using solar power, 24/7, monitorable through a custom-made Android application;<br><br>⭐ Ask me about:<br>🪐 Everything
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dany.cerioli08@gmail.com) 
